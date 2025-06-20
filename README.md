@@ -1,19 +1,28 @@
-# 🎈 Blank app template
 
-A simple Streamlit app template for you to modify!
+# Drinkable
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+## Project Description
+A project focused on creating a comprehensive database of drink recipes.
 
-### How to run it on your own machine
+## Features
+- Extensive drink recipe collection
+- Search and filter functionality
+- User-generated content
 
-1. Install the requirements
+## Technology Stack
+React, Node.js, MongoDB
 
-   ```
-   $ pip install -r requirements.txt
-   ```
+## Installation
+Clone the repository and run `npm install` followed by `npm start`.
 
-2. Run the app
+## Usage
+Explore and contribute to the drink recipe database via the web interface.
 
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+## Contributing
+Contributions are welcome! Please fork the repository and submit a pull request.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+For any inquiries, please contact DevGruGold AKA Joseph Andrew Lee.
